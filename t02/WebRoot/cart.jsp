@@ -33,7 +33,7 @@
 			String book = (String) books.get(i);
 			out.print(book);
 	%>
-	<a href="moveBookFormCart.jsp?tt=<%=book%>>">删除</a>
+	<a href="moveBookFormCart.jsp?tt=<%=book%>">删除</a>
 	<br />
 	<%
 		}
