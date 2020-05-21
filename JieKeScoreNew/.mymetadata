@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JieKeScoreNew"
+  id="myeclipse.1590055109491"
+  context-root="/JieKeScoreNew"
+  j2ee-spec="6.0"
+  archive="JieKeScoreNew.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
